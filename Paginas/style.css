@@ -127,3 +127,14 @@
 .text-muted {
     margin: 20px 0;
 }
+
+body {
+	padding-top: 5em;
+}
+
+hr {
+	width: 100%;
+	color: black;
+	height: 1px;
+	background-color:black;
+}
